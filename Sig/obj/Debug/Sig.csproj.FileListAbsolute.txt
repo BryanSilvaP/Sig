@@ -1,0 +1,6 @@
+C:\Users\bryan_000\Documents\GitHub\Sig\Sig\bin\Sig.dll.config
+C:\Users\bryan_000\Documents\GitHub\Sig\Sig\bin\Sig.dll
+C:\Users\bryan_000\Documents\GitHub\Sig\Sig\bin\Sig.pdb
+C:\Users\bryan_000\Documents\GitHub\Sig\Sig\obj\Debug\Sig.csprojResolveAssemblyReference.cache
+C:\Users\bryan_000\Documents\GitHub\Sig\Sig\obj\Debug\Sig.dll
+C:\Users\bryan_000\Documents\GitHub\Sig\Sig\obj\Debug\Sig.pdb
