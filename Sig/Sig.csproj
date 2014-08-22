@@ -65,11 +65,19 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\Style.css" />
+    <Content Include="images\avatar.jpg" />
+    <Content Include="images\imagen.jpg" />
+    <Content Include="images\logo.png" />
     <Content Include="index.html" />
+    <Content Include="ingreso.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

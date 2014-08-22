@@ -1,0 +1,12 @@
+body {
+    background: #f8f8f8;
+    font-size: 21;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px #cccbcb;
+    border: 1px solid #eee;
+    color: #3893DA;
+    margin: 5% auto;
+    padding: 31px;
+    text-align: center;
+    width: 50%;
+}
