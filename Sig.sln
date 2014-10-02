@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sig", "Sig\Sig.csproj", "{A1D88AC3-6D35-43D3-9BC5-376BE97303C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigService", "SigService\SigService.csproj", "{EA390792-0BA2-40F7-9751-2EFACB9872E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigConsole", "SigConsole\SigConsole.csproj", "{BB7A30FD-7912-4005-9283-F929FC1F2D09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A1D88AC3-6D35-43D3-9BC5-376BE97303C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1D88AC3-6D35-43D3-9BC5-376BE97303C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1D88AC3-6D35-43D3-9BC5-376BE97303C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA390792-0BA2-40F7-9751-2EFACB9872E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA390792-0BA2-40F7-9751-2EFACB9872E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA390792-0BA2-40F7-9751-2EFACB9872E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA390792-0BA2-40F7-9751-2EFACB9872E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7A30FD-7912-4005-9283-F929FC1F2D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7A30FD-7912-4005-9283-F929FC1F2D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7A30FD-7912-4005-9283-F929FC1F2D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7A30FD-7912-4005-9283-F929FC1F2D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
